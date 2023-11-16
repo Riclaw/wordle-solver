@@ -38,7 +38,7 @@ wordle-guesser/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wordle-guesser.git
+   git clone https://github.com/Riclaw/wordle-guesser.git
    cd wordle-guesser
    ```
 
