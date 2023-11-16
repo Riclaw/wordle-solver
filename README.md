@@ -57,4 +57,4 @@ wordle-guesser/
 - Adjust the maximum number of trials in `game.py` if needed.
 
 
-Feel free to customize the content further based on your project's specifics and any additional information you'd like to include.
+
